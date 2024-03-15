@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/OqMu5B2to4Z4IITVtj72w5RrwhbvqA/7/+kSEmjgoKVr57vMP0ZqSw7/4QfXS7ekbbLP1ocnrZY/tl26bIWtA==",
+  "success": true,
+  "projectFilePath": "/home/vagner/Desktop/monitoria/toDoEmailConsumer/toDoEmailConsumer.csproj",
+  "expectedPackageFiles": [
+    "/home/vagner/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/home/vagner/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/vagner/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
